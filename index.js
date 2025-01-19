@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["YT: Timexo"];
+const statusMessages = ["Modding a new Mod"];
 
 
 let currentIndex = 0;
